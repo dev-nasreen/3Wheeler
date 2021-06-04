@@ -1,2 +1,2 @@
 # 3Wheeler
-## Buy Bangladeshi Auto Rickshaw
+## This app is made by React Native.
