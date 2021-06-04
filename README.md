@@ -2,14 +2,14 @@
 ## This app is made by React Native.
 
 ### This app will be updated day by day.
-![alt text](https://drive.google.com/file/d/12QshD0I-6iEiNCJ0f12lxNOJCyTUop6G/view "first page")
+![alt text](https://i.ibb.co/HYW3Zx0/model1.jpg "first page")
 
-![alt text](https://drive.google.com/file/d/12ITWmcs2Coknw4Zvue3FhwUiIeMe0zx0/view "2nd page")
+![alt text](https://i.ibb.co/pwRdrRQ/model2.jpg "2nd page")
 
-![alt text](https://drive.google.com/file/d/12RUDR4-jOgWEdySJtBcci5usZxtDFMjz/view "3rd page")
+![alt text](https://i.ibb.co/ssMvC6m/model3.jpg "3rd page")
 
-![alt text](https://drive.google.com/file/d/12UIXafzR389NENmzyQTP1LIi8mOqJxHo/view "4th page")
+![alt text](https://i.ibb.co/TY5yPR7/model4.jpg "4th page")
 
 ## Our work on Jira software
-![alt text](https://drive.google.com/file/d/1FOubwOZg0JlXQyAqxpICpLRnVuKkTWeS/view "jira page")
+![alt text](https://i.ibb.co/xGMxZmK/jira.png "jira page")
 
